@@ -1,6 +1,5 @@
 import React from 'react'
-import AdminDashboard from '../pages/adminDashboard.jsx'
-import LandingPage from '../pages/landingPage.jsx'
+import AdminDashboard from './pages/adminDashboard.jsx'
 
 function App() {
   return (
